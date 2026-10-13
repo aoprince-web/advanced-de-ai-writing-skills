@@ -22,7 +22,7 @@ The scanner catches only a subset of patterns. It is not an AI detector and cann
 
 The root-level humanwriting/, skills/, docs/, tests/, integrations/, and plugins/ retain the advanced toolkit's Python CLI, specialist editorial modules, protected-content and rewrite-fidelity checks, long-form audit workflow, local MCP coordination, integrations, and test suite.
 
-See the [advanced toolkit documentation](docs/human-writing-skills-readme.md), [agent orchestration guide](docs/agent-orchestration.md), and [long-form consistency guide](docs/long-form-consistency.md).
+See the [advanced toolkit documentation](HUMAN-WRITING-SKILLS-README.md), [agent orchestration guide](docs/agent-orchestration.md), and [long-form consistency guide](docs/long-form-consistency.md).
 
 ## Recommended workflow
 
@@ -50,7 +50,7 @@ See the [advanced toolkit documentation](docs/human-writing-skills-readme.md), [
 - tests/: automated tests and fixtures.
 - plugins/, integrations/, agents/: integrations and assistant support.
 - docs/human-writing-skills-readme.md: preserved upstream toolkit README.
-- docs/human-writing-skills-skill.md: preserved upstream toolkit skill instructions.
+- HUMAN-WRITING-SKILLS.md: preserved upstream toolkit skill instructions.
 
 ## Important limitation
 
