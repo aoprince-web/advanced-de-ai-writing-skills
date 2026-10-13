@@ -1,6 +1,6 @@
 ---
 name: advanced-de-ai-writing-skills
-description: Advanced Human Writing & AI Humanizer. Multilingual AI humanizer for genre-aware generation, humanize AI text, de-AI writing, natural rewriting, fiction and novels, novel writing assistant, story continuity, long-form audit, chunked audit, writing style unification, character consistency review, scene ending audit, and rewrite fidelity. Also supports de-AI editing, academic and formal writing, protected-content checks, and long-document review. 增强版去 AI 写作 Skill、高级 AI 写作工具、去AI味、去AI写作、消除AI腔、AI文本润色、小说润色、小说续写、AI式结尾、生硬结尾审查、长文一致性、分块审查、全书审查、文风统一、人物设定统一、人物一致性审查、人物对白审查、翻译腔.
+description: Advanced Human Writing & AI Humanizer. Multilingual AI humanizer for genre-aware generation, humanize AI text, de-AI writing, natural rewriting, fiction and novels, novel writing assistant, story continuity, long-form audit, chunked audit, writing style unification, character consistency review, scene ending audit, and rewrite fidelity. Also supports de-AI editing, academic and formal writing, protected-content checks, and long-document review. 增强版去 AI 写作 Skill、高级 AI 写作工具、去AI味、去AI写作、消除AI腔、AI文本润色、小说润色、小说续写、AI式结尾、生硬结尾审查、长文一致性、长篇审查、分块审查、全书审查、文风统一、人物设定统一、人物一致性审查、人物对白审查、翻译腔.
 ---
 
 # Advanced De-AI Writing Skills
